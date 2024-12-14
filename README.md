@@ -1,2 +1,2 @@
-# USA-Car-accidents
-USA car accidents EDA for 2016-2023
+# Car-Accidents
+Car Accidents Insights Based on  Kaggle's "US Accidents (2016 - 2023)"
